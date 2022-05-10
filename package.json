@@ -1,0 +1,23 @@
+{
+    "name": "com.alextutea.unity-spawn",
+    "version": "1.0.0",
+    "displayName": "Spawn",
+    "description": "Unity package which attempts to efficiently manage common game object spawning logic patterns.",
+    "unity": "2020.3",
+    "unityRelease": "23f1",
+    "documentationUrl": "https://github.com/alextutea/unity-spawn",
+    "changelogUrl": "https://github.com/alextutea/unity-spawn",
+    "licensesUrl": "https://github.com/alextutea/unity-spawn",
+    "dependencies": {},
+   "keywords": [
+      "spawn",
+      "pool",
+      "object"
+    ],
+    "author": {
+      "name": "Alex Tutea",
+      "email": "alex.tutea@gmail.com",
+      "url": "https://github.com/alextutea"
+    }
+  }
+  
