@@ -1,6 +1,6 @@
 {
     "name": "com.alextutea.unity-spawn",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Spawn",
     "description": "Unity package which attempts to efficiently manage common game object spawning logic patterns.",
     "unity": "2020.3",
