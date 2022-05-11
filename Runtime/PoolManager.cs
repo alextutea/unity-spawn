@@ -14,9 +14,7 @@ namespace Spawn
             get
             {
                 if (_singleton) return _singleton;
-                var obj = Instantiate(
-                    new GameObject("#PoolManager", typeof(PoolManager))
-                );
+                var obj = new GameObject("#PoolManager", typeof(PoolManager));
                 _singleton = obj.GetComponent<PoolManager>();
                 return _singleton;
             }
